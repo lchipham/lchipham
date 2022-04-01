@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @lchipham, but I also go by Lindsey!
+- 👋 Hi, I’m @lchipham, but I also go by Linh-Chi or Lindsey!
 - 👀 I’m an R lover, specialized in statistical computing. My strengths lie in descriptive & inferential statistics, data wrangling, data visualization and web app development using RShiny.
-- 🌱 Incoming Data Analyst Intern at Viettel Group
 - 📫 Reach me at cpham2@conncoll.edu
 
 <!---
