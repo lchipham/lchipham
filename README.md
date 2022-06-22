@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lchipham, but I also go by Linh-Chi or Lindsey!
+- 👋 Hi, I’m Linh-Chi Pham, but I also go by Chi or Lindsey!
 - 👀 I’m an R lover, specialized in statistical computing. My strengths lie in descriptive & inferential statistics, data wrangling, data visualization and web app development using RShiny.
 - 📫 Reach me at cpham2@conncoll.edu
 
