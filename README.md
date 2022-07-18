@@ -1,5 +1,6 @@
 - Hi, I’m Linh-Chi Pham, but I also go by Chi!
-- I’m an R lover, specialized in statistical computing. My strengths lie in descriptive & inferential statistics, data wrangling, data visualization and web app development using RShiny.
+- I’m an R lover, specialized in statistical computing, data wrangling, visualization and web app development using RShiny.
+- Visit my portfoliio website: https://lchipham.netlify.app
 - 📫 Reach me at cpham2@conncoll.edu
 
 <!---
