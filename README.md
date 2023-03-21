@@ -1,4 +1,4 @@
-- Hi, I’m Chi! Reach me at 📫 cpham2@conncoll.edu
+- 📫 cpham2@conncoll.edu
 
 <!---
 lchipham/lchipham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
